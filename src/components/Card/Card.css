@@ -1,0 +1,25 @@
+.card {
+  height: 500px;
+  background-color: #405d78;
+  width: 400px;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+  gap: 20px;
+  color: white;
+  letter-spacing: 1px;
+}
+.instruction {
+  text-align: center;
+  font-size: 12px;
+  margin-top: 20px;
+}
+.answers p {
+  margin: auto;
+  background-color: white;
+  color: rgba(63, 63, 129, 0.471);
+  padding: 10px;
+  border-radius: 10px;
+}

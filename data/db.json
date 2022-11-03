@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "sentenceExample": "Ova kuca je mala",
+      "sentenceCompleat": "This __ is small",
+      "posibleAnswers": ["house", "pool", "city", "peach"],
+      "correctAnswer": "house",
+      "compleated": false,
+      "answered": false
+    },
+    {
+      "id": 2,
+      "sentenceExample": "Boja zida je siva",
+      "sentenceCompleat": "Color of the wall is __",
+      "posibleAnswers": ["gray", "pink", "red", "black"],
+      "correctAnswer": "gray",
+      "compleated": false,
+      "answered": false
+    },
+    {
+      "id": 3,
+      "sentenceExample": "Mogu li da dobijem vode",
+      "sentenceCompleat": "Can i get some __",
+      "posibleAnswers": ["food", "water", "juice", "cake"],
+      "correctAnswer": "water",
+      "compleated": false,
+      "answered": false
+    },
+    {
+      "id": 4,
+      "sentenceExample": "Volim da trcim svako jutro",
+      "sentenceCompleat": "I like to run each __",
+      "posibleAnswers": ["day", "night", "morning", "noon"],
+      "correctAnswer": "morning",
+      "compleated": false,
+      "answered": false
+    },
+    {
+      "id": 6,
+      "sentenceExample": "Imam mnogo prijatelja",
+      "sentenceCompleat": "I have lots of __",
+      "posibleAnswers": ["siblings", "money", "apples", "friends"],
+      "correctAnswer": "friends",
+      "compleated": false,
+      "answered": false
+    },
+    {
+      "id": 7,
+      "sentenceExample": "Moja sestra se zove Jane",
+      "sentenceCompleat": "My __ name is Jane",
+      "posibleAnswers": ["aunt", "sister", "school", "friend"],
+      "correctAnswer": "sister",
+      "compleated": false,
+      "answered": false
+    },
+    {
+      "id": 8,
+      "sentenceExample": "Ja sam cura",
+      "sentenceCompleat": "I am __",
+      "posibleAnswers": ["girl", "boy", "dancer", "fish"],
+      "correctAnswer": "girl",
+      "compleated": false,
+      "answered": false
+    },
+    {
+      "id": 9,
+      "sentenceExample": "Idemo plivati u moru",
+      "sentenceCompleat": "Lets go swim in __",
+      "posibleAnswers": ["lake", "pool", "forest", "sea"],
+      "correctAnswer": "sea",
+      "compleated": false,
+      "answered": false
+    },
+    {
+      "id": 10,
+      "sentenceExample": "Moja omiljena knjiga je Alkemicar",
+      "sentenceCompleat": "My favorite __ is Alchemist",
+      "posibleAnswers": ["book", "animal", "spider", "city"],
+      "correctAnswer": "book",
+      "compleated": false,
+      "answered": false
+    },
+    {
+      "id": 5,
+      "sentenceExample": "Volim da vozim auto",
+      "sentenceCompleat": "I like to drive __",
+      "posibleAnswers": ["bike", "boat", "sleds", "car"],
+      "correctAnswer": "car",
+      "compleated": false,
+      "answered": false
+    }
+  ]
+}

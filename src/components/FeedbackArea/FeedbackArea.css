@@ -1,0 +1,19 @@
+.feedback-area {
+  height: 30%;
+  width: 100%;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+}
+.feedback-area p {
+  font-size: 14px;
+}
+.correct {
+  background-color: #2edfe8;
+}
+.false {
+  background-color: #fc7986;
+}

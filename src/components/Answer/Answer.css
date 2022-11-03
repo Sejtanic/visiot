@@ -1,0 +1,16 @@
+.answer {
+  padding: 10px;
+  border-radius: 10px;
+  letter-spacing: 2px;
+  background-color: #a0b0be;
+  color: rgba(33, 33, 91, 0.471);
+  outline: none;
+  border: none;
+  transition: all 0.2s;
+  font-weight: bold;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 20px 25px -5px,
+    rgba(0, 0, 0, 0.1) 0px 10px 10px -5px;
+}
+.answer:hover {
+  background-color: lightblue;
+}

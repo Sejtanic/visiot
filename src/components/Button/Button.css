@@ -1,0 +1,16 @@
+.button {
+  width: 80%;
+  padding: 10px;
+  outline: none;
+  background-color: #778ea2;
+  border: none;
+  color: white;
+  border-radius: 20px;
+  transition: all 0.3s;
+  letter-spacing: 2px;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 20px 25px -5px,
+    rgba(0, 0, 0, 0.1) 0px 10px 10px -5px;
+}
+.button:hover {
+  background-color: rgb(162, 154, 154);
+}
