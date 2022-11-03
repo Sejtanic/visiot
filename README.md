@@ -25,6 +25,7 @@ uncomment line of code from 13 to 23 to get data from Firebase and Firestore dat
 --Made components reusable 
 --optional chaining operator
 --Use null as first state value 
+--Most of components are sidefect free
 
 -progessbar will look different in mozzila browser becouse mozila dont support <progess> CSS webkit 
 
